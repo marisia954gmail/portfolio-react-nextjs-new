@@ -12,9 +12,9 @@ export default function Home() {
       </div>
 
       <div className="md:w-2/3 px-8">
-      <div class="mb-6">
+      <div className="mb-6">
         <h2
-          class="mt-6 text-4xl text-gray-700 font-bold capitalize dark:text-blue-200"
+          className="mt-6 text-4xl text-gray-700 font-bold capitalize dark:text-blue-200"
         >
         </h2>
        this is home

@@ -10,7 +10,7 @@ const Author = () => {
           height="600"
           loading="lazy"
           alt="me"
-          class="shadow-xl md:h-60 md:w-60 h-40 w-40 rounded-full"
+          className="shadow-xl md:h-60 md:w-60 h-40 w-40 rounded-full"
         />
           <div className="mb-2 mx-7 mt-4 justify-center items-center">
             <h1
