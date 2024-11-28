@@ -10,7 +10,7 @@ return (
         Projects
       </h1>
       <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-        Some of the projects I've build or been a part of.
+        Some of the projects Ive build or been a part of.
       </p>
     </div>
     <div className="space-y-16 mx-auto max-w-7xl">
